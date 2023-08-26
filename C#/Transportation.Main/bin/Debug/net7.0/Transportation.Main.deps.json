@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Transportation.Main/1.0.0": {
+        "dependencies": {
+          "Transportation.Billing": "1.0.0"
+        },
+        "runtime": {
+          "Transportation.Main.dll": {}
+        }
+      },
+      "Transportation.Billing/1.0.0": {
+        "runtime": {
+          "Transportation.Billing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transportation.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transportation.Billing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
