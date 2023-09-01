@@ -1,0 +1,15 @@
+E:\Development\.Net\KnowItTest\KnowItTest\bin\Debug\net7.0\KnowItTest.exe
+E:\Development\.Net\KnowItTest\KnowItTest\bin\Debug\net7.0\KnowItTest.deps.json
+E:\Development\.Net\KnowItTest\KnowItTest\bin\Debug\net7.0\KnowItTest.runtimeconfig.json
+E:\Development\.Net\KnowItTest\KnowItTest\bin\Debug\net7.0\KnowItTest.dll
+E:\Development\.Net\KnowItTest\KnowItTest\bin\Debug\net7.0\KnowItTest.pdb
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.csproj.AssemblyReference.cache
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.AssemblyInfoInputs.cache
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.AssemblyInfo.cs
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.csproj.CoreCompileInputs.cache
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.dll
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\refint\KnowItTest.dll
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.pdb
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\KnowItTest.genruntimeconfig.cache
+E:\Development\.Net\KnowItTest\KnowItTest\obj\Debug\net7.0\ref\KnowItTest.dll
