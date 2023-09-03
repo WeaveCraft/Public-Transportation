@@ -1,4 +1,4 @@
-﻿class Transportation
+﻿public class Transportation
 {
     public Dictionary<DayOfWeek, int> Prices { get; set; }
 

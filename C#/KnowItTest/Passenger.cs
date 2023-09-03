@@ -1,21 +1,20 @@
-﻿class Passenger
+﻿public class Passenger
 {
     public double TotalBill { get; private set; }
-    private List<Transportation> trips = new List<Transportation>();
+    private Transportation? currentTransportation;
     private List<DateTime> tripDates = new List<DateTime>();
 
     public void CheckIn(Transportation transportation, DateTime date)
     {
-        trips.Add(transportation);
+        currentTransportation = transportation;
         tripDates.Add(date);
     }
 
-    public void CheckOut(Transportation transportation, DateTime date, PublicHoliday publicHoliday)
+    public void CheckOut(DateTime date, PublicHoliday publicHoliday)
     {
-        if (trips.Contains(transportation))
+        if (currentTransportation != null)
         {
-            int index = trips.IndexOf(transportation);
-            DateTime tripStartDate = tripDates[index];
+            DateTime tripStartDate = tripDates.LastOrDefault();
             DateTime tripEndDate = date;
 
             int tripDuration = (int)(tripEndDate - tripStartDate).TotalDays;
@@ -30,7 +29,7 @@
                 for (int i = 0; i <= tripDuration; i++)
                 {
                     DateTime currentDay = tripStartDate.AddDays(i);
-                    int dayPrice = transportation.Prices[currentDay.DayOfWeek];
+                    int dayPrice = currentTransportation.Prices[currentDay.DayOfWeek];
                     if (dayPrice > highestPrice)
                     {
                         highestPrice = dayPrice;
@@ -45,8 +44,12 @@
                 TotalBill = 200;
             }
 
-            trips.RemoveAt(index);
-            tripDates.RemoveAt(index);
+            // Reset the current transportation
+            currentTransportation = null;
+        }
+        else
+        {
+            Console.WriteLine("Checkout must be paired with a previous Checkin.");
         }
     }
 }
