@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMCLX3C83eVUPYtM/Ol6MDm3l1OqAQPiq+OKdfbI2r6jx0RS3+oR19mSuKqw+dypqAKdyDWwdeeFQhrSOQGo/w==",
+  "dgSpecHash": "0n5mq0nVwnBT1Bk5GaV7GhVWjQHnS8KLLfvcUoAXwnj1ccyrC0SfnWUImg6d/ZgfaAakg1nVZZyaRBg8mVekNQ==",
   "success": true,
-  "projectFilePath": "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
+  "projectFilePath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vikto\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Vikto\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

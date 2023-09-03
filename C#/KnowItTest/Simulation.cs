@@ -1,4 +1,4 @@
-﻿public class Simulation //This class is to simulate a trip. All methods are being called in the Program.cs file.
+﻿public class Simulation //This class is to simulate a trip. All methods are called in the Program.cs file.
 {
     private Tram tram;
     private Bus bus;

@@ -1,18 +1,7 @@
 using Xunit;
 
-public class TransportationTests
+public class TransportationTests : TransportationTestBase
 {
-    private readonly Tram tram;
-    private readonly Bus bus;
-    private readonly Passenger passenger;
-
-    public TransportationTests()
-    {
-        tram = new Tram();
-        bus = new Bus();
-        passenger = new Passenger();
-    }
-
     [Fact]
     public void TramPriceOnWeekday()
     {

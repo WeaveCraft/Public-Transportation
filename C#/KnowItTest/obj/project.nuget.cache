@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZh7nWMC4/gvSrRJFij4NJ5VZtBt3hixFrKqscy48vmMTre3HpO7NCIaVTCms8LRTJlMWySSoA0hgXe8zHPCWA==",
+  "dgSpecHash": "lVZMv6JFtLM2GJO5RuL1fvYjzld28ucBF7wswnrPNivzirLkF5c3EEyrwz3enV3BM5xeqelbH4mvcAlMEWNdRg==",
   "success": true,
-  "projectFilePath": "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj",
+  "projectFilePath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

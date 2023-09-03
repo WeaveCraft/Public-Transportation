@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\xUnitKnowItTest.csproj": {}
+    "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\xUnitKnowItTest.csproj": {}
   },
   "projects": {
-    "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj": {
+    "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj",
+        "projectUniqueName": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj",
         "projectName": "KnowItTest",
-        "projectPath": "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj",
+        "projectPath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj",
         "packagesPath": "C:\\Users\\Vikto\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\obj\\",
+        "outputPath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\xUnitKnowItTest.csproj": {
+    "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\xUnitKnowItTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
+        "projectUniqueName": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
         "projectName": "xUnitKnowItTest",
-        "projectPath": "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
+        "projectPath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\xUnitKnowItTest.csproj",
         "packagesPath": "C:\\Users\\Vikto\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\.Net\\KnowItTest\\xUnitKnowItTest\\obj\\",
+        "outputPath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\xUnitKnowItTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj": {
-                "projectPath": "E:\\Development\\.Net\\KnowItTest\\KnowItTest\\KnowItTest.csproj"
+              "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj": {
+                "projectPath": "E:\\Development\\CodeTests\\Public-Transportation\\C#\\KnowItTest\\KnowItTest.csproj"
               }
             }
           }
